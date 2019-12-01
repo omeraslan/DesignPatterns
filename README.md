@@ -3,14 +3,12 @@ Bu proje "Gang of Four" ismiyle bilinen 23 tane tasarım desenini C# ve Swift di
 
 ## Gang of Four tasarım desenleri nedir?
 
-"Gang of Four" Dört kişiden oluşan bir grubun adıdır. "Yeniden Kullanılabilir Nesne Odaklı Yazılım Öğeleri: Tasarım Desenleri" orijinal adıyla 
-"Design Patterns - Elements of Reusable Object-Oriented Software" isimli kitabı yayınlamışlar. 
-Bu dört kişinin isimleri aşağıdaki gibidir.
+"Gang of Four" Dört kişiden oluşan bir grubun adıdır. "Yeniden Kullanılabilir Nesne Odaklı Yazılım Öğeleri: Tasarım Desenleri" orijinal adıyla "Design Patterns - Elements of Reusable Object-Oriented Software" isimli kitabı yayınlamışlar. Bu dört kişinin isimleri aşağıdaki gibidir.
 
-Erich Gamma
-Richard Helm
-Ralph Johnson
-John Vlissides
+* Erich Gamma
+* Richard Helm
+* Ralph Johnson
+* John Vlissides
 
 ### Davranışsal (Behavioral) Tasarım Desenleri
 
