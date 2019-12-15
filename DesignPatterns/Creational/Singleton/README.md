@@ -1,5 +1,5 @@
 # Singleton Tasarım Deseni 
-Singleton (Tek Nesne) tasarım deseni bir sınıfın tek bir örneğini oluşturmak için kullanılır. Amaç sınıftan sadece bir tane örnek oluşturup her yerde onu kullanmaktır. Buradaki önemli bir konu birden fazla sunucuya sahip uygulamalarda bu deseni kullanırken güvenli bir şekilde oluşturmaktır. Yani birden fazla sunucuda oluşmaması için **kilitlenme (lock)** kullanılmalıdır. 
+Singleton (Tek Nesne) tasarım deseni bir sınıfın tek bir örneğini oluşturmak için kullanılır. Amaç sınıftan sadece bir tane örnek oluşturup her yerde onu kullanmaktır. Buradaki önemli bir konu birden fazla işlem parçacığına (thread) sahip uygulamalarda bu deseni kullanırken güvenli bir şekilde oluşturmaktır. Yani birden fazla örnek oluşmaması için **kilitlenme (lock)** kullanılmalıdır. 
 
 **Kilitleme (Lock):** Birden fazla işlem parçacığı (thread) üzerinde işlem yapıyorsanız belirli işlemler için aynı anda sadece bir tane işlem parçacığına (thread) izin vermek için kullanılan yapıdır.
 
