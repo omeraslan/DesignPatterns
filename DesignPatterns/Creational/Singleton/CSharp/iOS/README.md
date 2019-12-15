@@ -1,0 +1,1 @@
+ios singleton pattern
