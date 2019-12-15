@@ -1,12 +1,12 @@
 # Mediator Tasarım Deseni #
 
 
-## Çalışma Mantığı Nasıl? ##
+## Çalışma Mantığı Nasıl?
 
 
 
-## Ne Zaman Kullanılır? ##
+## Ne Zaman Kullanılır?
 
 
 
-## Benzer Tasarım Desenleri Nelerdir? ##
+## İlişkili Olduğu Tasarım Desenleri Nelerdir?
