@@ -30,7 +30,7 @@ Bu proje "Gang of Four" ismiyle bilinen 23 tane tasarım desenini C# ve Swift di
 * [Builder]
 * [FactoryMethod]
 * [Prototype]
-* [Singleton]
+* [Singleton](DesignPatterns/Creational/Singleton)
 
 ### Yapısal (Structural) Tasarım Desenleri 
 
